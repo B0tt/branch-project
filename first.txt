@@ -1,2 +1,6 @@
 some content
+<<<<<<< HEAD
 ough
+=======
+wow
+>>>>>>> branch2
